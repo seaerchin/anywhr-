@@ -16,7 +16,7 @@ Additional notes: there is a tests.py file along with a postman collection file.
 set-up:
 
 1. setup a virtual env in your working folder.
-	a. utlize this command: python3 -m venv /path/to/new/virtual/environment
+	a. utilize this command: python3 -m venv /path/to/new/virtual/environment
 
 2. next, activate your venv 
 	a. navigate to the scripts folder and type activate (on windows) 
