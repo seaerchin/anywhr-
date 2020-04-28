@@ -20,7 +20,7 @@ set-up:
 
 2. next, activate your venv 
 	a. navigate to the scripts folder and type activate (on windows) 
-	b. similarly, just type ./activate on linux 
+	b. similarly, just type ./activate or source ./activate on linux 
 
 3. install the requirements using pip install -r requirements.txt (note that you have to be at the root of your working dir) 
 
